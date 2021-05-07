@@ -1,0 +1,11 @@
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\bin\Debug\vezhba5.exe.config
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\bin\Debug\vezhba5.exe
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\bin\Debug\vezhba5.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.Form1.resources
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.NovaMarka.resources
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.exe
+C:\Users\Kosta\Desktop\c# web\vezhba5\vezhba5\obj\Debug\vezhba5.pdb

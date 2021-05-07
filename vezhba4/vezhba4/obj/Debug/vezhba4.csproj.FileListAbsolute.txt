@@ -1,0 +1,11 @@
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\bin\Debug\vezhba4.exe.config
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\bin\Debug\vezhba4.exe
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\bin\Debug\vezhba4.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.Form1.resources
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.Ispit.resources
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.exe
+C:\Users\Kosta\Desktop\c# web\vezhba4\vezhba4\obj\Debug\vezhba4.pdb

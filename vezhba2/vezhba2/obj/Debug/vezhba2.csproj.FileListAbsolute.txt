@@ -1,0 +1,11 @@
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\bin\Debug\vezhba2.exe.config
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\bin\Debug\vezhba2.exe
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\bin\Debug\vezhba2.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.Form1.resources
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.NewProduct.resources
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.exe
+C:\Users\Kosta\Desktop\c# web\vezhba2\vezhba2\obj\Debug\vezhba2.pdb

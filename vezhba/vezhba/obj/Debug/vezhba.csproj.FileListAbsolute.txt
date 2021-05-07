@@ -1,0 +1,12 @@
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\bin\Debug\vezhba.exe.config
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\bin\Debug\vezhba.exe
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\bin\Debug\vezhba.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.Form1.resources
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.Form2.resources
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.exe
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba\vezhba\obj\Debug\vezhba.Form3.resources

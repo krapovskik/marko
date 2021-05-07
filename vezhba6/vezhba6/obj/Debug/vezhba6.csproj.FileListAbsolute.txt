@@ -1,0 +1,11 @@
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\bin\Debug\vezhba6.exe.config
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\bin\Debug\vezhba6.exe
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\bin\Debug\vezhba6.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.Form1.resources
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.exe
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.pdb
+C:\Users\Kosta\Desktop\c# web\vezhba6\vezhba6\obj\Debug\vezhba6.Konferencija.resources

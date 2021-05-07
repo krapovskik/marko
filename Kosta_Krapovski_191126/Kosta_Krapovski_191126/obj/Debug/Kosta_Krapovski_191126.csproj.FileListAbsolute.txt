@@ -1,0 +1,11 @@
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\bin\Debug\Kosta_Krapovski_191126.exe.config
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\bin\Debug\Kosta_Krapovski_191126.exe
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\bin\Debug\Kosta_Krapovski_191126.pdb
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.csprojAssemblyReference.cache
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.Form1.resources
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.Properties.Resources.resources
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.Додади_нов_ден.resources
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.csproj.GenerateResource.cache
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.exe
+C:\Users\Kosta\Desktop\c# web\Kosta_Krapovski_191126\Kosta_Krapovski_191126\obj\Debug\Kosta_Krapovski_191126.pdb
